@@ -1,0 +1,10 @@
+# Global owners
+* @santestorg1/platform-team
+
+# Frontend
+/src/ @santestorg1/frontend-team
+/src/components/ @santestorg1/ui-team
+
+# Config
+/.github/ @santestorg1/devops-team
+/terraform/ @santestorg1/infra-team
